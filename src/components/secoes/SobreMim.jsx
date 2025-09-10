@@ -1,7 +1,7 @@
 const SobreMim = () => {
   return (
-    <div id="sobre-mim" className="py-12 px-3 sm:px-6 md:px-12 lg:px-24 xl:px-32 min-h-screen flex flex-col lg:flex-row gap-12 justify-center items-center">
-      <div className="w-full max-w-4xl flex flex-col items-center lg:items-start text-center lg:text-left">
+    <div id="sobre-mim" className="py-12 px-4 sm:px-6 md:px-12 lg:px-24 xl:px-32 min-h-screen flex flex-col lg:flex-row gap-12 justify-center items-center">
+      <div className="w-full max-w-4xl flex flex-col items-center lg:items-start text-left">
         <h2 className="text-2xl sm:text-3xl md:text-4xl text-blue-500 font-bold mb-8">
           Sobre mim
         </h2>
